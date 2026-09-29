@@ -77,5 +77,5 @@ A high-level overview:
 
 \---
 
-Completed Kanban Fundamentals – Seth Rueger
+Completed Kanban Fundamentals – Seth R.
 
